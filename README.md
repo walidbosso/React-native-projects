@@ -1,19 +1,19 @@
-![Java-threads-udp-tcp-rmi-charts](https://socialify.git.ci/walidbosso/Java-threads-udp-tcp-rmi-charts/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
+![React-native-projects](https://socialify.git.ci/walidbosso/React-native-projects/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Formal%20Invitation&pulls=1&stargazers=1&theme=Auto)
 
 <p align="center">
-<a href="https://github.com/walidbosso/Java-threads-udp-tcp-rmi-charts">
+<a href="https://github.com/walidbosso/React-native-projects">
 <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/> </a>
 </p>
 <div align="center">
   
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=walidbosso&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/walidbosso/Java-threads-udp-tcp-rmi-charts)
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=walidbosso&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/walidbosso/React-native-projects)
 
   <p align="center">
-<a href="https://github.com/walidbosso/Java-threads-udp-tcp-rmi-charts">
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwalidbosso%2FJava-threads-udp-tcp-rmi-charts&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
+<a href="https://github.com/walidbosso/React-native-projects">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwalidbosso%2FReact-native-projects&label=Project%20views&countColor=%23263759&style=flat-square&labelStyle=none" /></a>
 </p>
 
-<a href="https://github.com/walidbosso/Java-threads-udp-tcp-rmi-charts">
+<a href="https://github.com/walidbosso/React-native-projects">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="60%"/>
   <a/>
 </a>
@@ -21,11 +21,15 @@
 
 <br/>
 
-# React Native Mini Projects
+# React native Mini Projects
 
 </div>
 
-This repository contains a series of React Native mini projects developed by Walid Boussou. 
+This repository contains a series of React native mini projects developed by Walid Boussou.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
@@ -39,15 +43,9 @@ If you'd like to contribute to the project, please follow these steps:
 
 ## Issues
 
-If you encounter any issues or have suggestions, please open an issue on the [Issues](https://github.com/walidbosso/Nodejs_playground/issues) page.
+If you encounter any issues or have suggestions, please open an issue on the [Issues](https://github.com/walidbosso/React-native-projects/issues) page.
 
-Thank you for exploring! 🚀
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+Thank you for exploring the Node.js Playground! 🚀
 
 <div align="center">
   
@@ -64,7 +62,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-[![Stargazers repo roster for @walidbosso/Java-threads-udp-tcp-rmi-charts](http://reporoster.com/stars/dark/walidbosso/Java-threads-udp-tcp-rmi-charts)](https://github.com/walidbosso/Java-threads-udp-tcp-rmi-charts/stargazers)
+[![Stargazers repo roster for @walidbosso/React-native-projects](http://reporoster.com/stars/dark/walidbosso/React-native-projects)](https://github.com/walidbosso/React-native-projects/stargazers)
 
 
 
@@ -74,14 +72,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center" >
 
-[![Forkers repo roster for @walidbosso/Java-threads-udp-tcp-rmi-charts](http://reporoster.com/forks/dark/walidbosso/Java-threads-udp-tcp-rmi-charts)](https://github.com/walidbosso/Java-threads-udp-tcp-rmi-charts/network/members)
+[![Forkers repo roster for @walidbosso/React-native-projects](http://reporoster.com/forks/dark/walidbosso/React-native-projects)](https://github.com/walidbosso/React-native-projects/network/members)
 
 </div>
 
 ## Contributors
 
 <a href = "https://github.com/walidbosso">
-  <img src = "https://contrib.rocks/image?repo=walidbosso/Java-threads-udp-tcp-rmi-charts"/>
+  <img src = "https://contrib.rocks/image?repo=walidbosso/React-native-projects"/>
 </a>
 
 
@@ -90,12 +88,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
 
 
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/Java-threads-udp-tcp-rmi-charts?style=social)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/walidbosso/React-native-projects?style=social)
 
 </div>
 <div align="center">
 
-![GitHub License](https://img.shields.io/github/license/walidbosso/Java-threads-udp-tcp-rmi-charts?style=social)
+![GitHub License](https://img.shields.io/github/license/walidbosso/React-native-projects?style=social)
 
  <p align="center">
 <a href="https://www.buymeacoffee.com/walidbosso"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=walidbosso&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=ffffff&coffee_colour=FFDF00" title="☕ This will motivate me to continue on creating more open source codes "/></a>
@@ -105,15 +103,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </div>
 
 <a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/React-native-projects/blob/main/border.gif" width="100%"/>
+  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
 <a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/React-native-projects/blob/main/ciber-coding.gif" width="100%"/>
+  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/ciber-coding.gif" width="100%"/>
 </a>
 
 <a href = "https://github.com/walidbosso">
-  <img src = "https://github.com/walidbosso/React-native-projects/blob/main/border.gif" width="100%"/>
+  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif" width="100%"/>
 </a>
 
 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 💙 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 ⭐ 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚢!
