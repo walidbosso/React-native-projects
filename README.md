@@ -45,7 +45,7 @@ If you'd like to contribute to the project, please follow these steps:
 
 If you encounter any issues or have suggestions, please open an issue on the [Issues](https://github.com/walidbosso/React-native-projects/issues) page.
 
-Thank you for exploring the Node.js Playground! 🚀
+Thank you for exploring! 🚀
 
 <div align="center">
   
